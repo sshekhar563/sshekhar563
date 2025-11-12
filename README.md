@@ -26,10 +26,9 @@
 ---
 
 ### 💭 When I'm not coding
-- ♟️ Playing Chess  
+- ♟️ Playing PC Games 
 - 📚 Reading Psychology & AI books  
-- 💬 Having Deep Tech & Existential Conversations  
-- 🏋️‍♂️ Weightlifting & Fitness  
+- 💬 Having Deep Tech & Existential Conversations   
 - 🎮 Watching Anime / Manga / Manhwa  
 
 ---
