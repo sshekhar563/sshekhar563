@@ -39,14 +39,6 @@
 
 ---
 
-### 🧩 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sshekhar563&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshekhar563&layout=compact&theme=tokyonight)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sshekhar563&theme=tokyonight)
-
----
-
 ### 🏆 Achievements
 🏅 Open Source Contributor  
 🚀 Hacktoberfest Participant  
